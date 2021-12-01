@@ -20,4 +20,4 @@ module.exports = {
   productType: getCollectionFn("productType"),
   admin: getCollectionFn("admin"),
 };
-//this is connection file
+//this is connection file for project
